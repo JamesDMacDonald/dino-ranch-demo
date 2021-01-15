@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/JamesDMacDonald.github.io/din-ranch-demo/static/css/main.26cdd151.chunk.css",
+    "main.js": "/JamesDMacDonald.github.io/din-ranch-demo/static/js/main.caff4d90.chunk.js",
+    "main.js.map": "/JamesDMacDonald.github.io/din-ranch-demo/static/js/main.caff4d90.chunk.js.map",
+    "runtime-main.js": "/JamesDMacDonald.github.io/din-ranch-demo/static/js/runtime-main.16a9a4e8.js",
+    "runtime-main.js.map": "/JamesDMacDonald.github.io/din-ranch-demo/static/js/runtime-main.16a9a4e8.js.map",
+    "static/js/2.c7343c7b.chunk.js": "/JamesDMacDonald.github.io/din-ranch-demo/static/js/2.c7343c7b.chunk.js",
+    "static/js/2.c7343c7b.chunk.js.map": "/JamesDMacDonald.github.io/din-ranch-demo/static/js/2.c7343c7b.chunk.js.map",
+    "static/js/3.3c6cba5d.chunk.js": "/JamesDMacDonald.github.io/din-ranch-demo/static/js/3.3c6cba5d.chunk.js",
+    "static/js/3.3c6cba5d.chunk.js.map": "/JamesDMacDonald.github.io/din-ranch-demo/static/js/3.3c6cba5d.chunk.js.map",
+    "index.html": "/JamesDMacDonald.github.io/din-ranch-demo/index.html",
+    "static/css/main.26cdd151.chunk.css.map": "/JamesDMacDonald.github.io/din-ranch-demo/static/css/main.26cdd151.chunk.css.map",
+    "static/js/2.c7343c7b.chunk.js.LICENSE.txt": "/JamesDMacDonald.github.io/din-ranch-demo/static/js/2.c7343c7b.chunk.js.LICENSE.txt",
+    "static/media/CBCKids.49b187b5.gif": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/CBCKids.49b187b5.gif",
+    "static/media/DR Logo_30.00a88c88.png": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/DR Logo_30.00a88c88.png",
+    "static/media/DR_BG_DinoRanch_Entry Gate_0001_30.5fa16a3c.jpg": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/DR_BG_DinoRanch_Entry Gate_0001_30.5fa16a3c.jpg",
+    "static/media/DR_BG_Plains_0001.8b2bcdbb.jpg": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/DR_BG_Plains_0001.8b2bcdbb.jpg",
+    "static/media/DR_Baby_Brontosaurus_0001_30.aa83f8a1.png": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/DR_Baby_Brontosaurus_0001_30.aa83f8a1.png",
+    "static/media/DR_Jon_Blitz_0001_30.04b1ebb8.png": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/DR_Jon_Blitz_0001_30.04b1ebb8.png",
+    "static/media/DR_Miguel_Tango_0004_30.abb77f0d.png": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/DR_Miguel_Tango_0004_30.abb77f0d.png",
+    "static/media/DR_Min_Clover_0002_30.2f9427b3.png": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/DR_Min_Clover_0002_30.2f9427b3.png",
+    "static/media/DR_Prop_DinoEgg_0002_30.0a2a3ad7.png": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/DR_Prop_DinoEgg_0002_30.0a2a3ad7.png",
+    "static/media/DR_Prop_HayBaleRectangle_0001_50.a12be0d5.png": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/DR_Prop_HayBaleRectangle_0001_50.a12be0d5.png",
+    "static/media/Dino Ranch - Website terms and conditions of use(213862.1).793f9587.doc": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/Dino Ranch - Website terms and conditions of use(213862.1).793f9587.doc",
+    "static/media/Dino Rancher - Website Acceptable use policy(213863.1).78ad89fc.doc": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/Dino Rancher - Website Acceptable use policy(213863.1).78ad89fc.doc",
+    "static/media/App.css": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/tileableroofYellowishOrange_30.58fe00d1.jpg",
+    "static/media/PngItem_835216.5e49737f.png": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/PngItem_835216.5e49737f.png",
+    "static/media/pinterest-5-xxl.1632215b.png": "/JamesDMacDonald.github.io/din-ranch-demo/static/media/pinterest-5-xxl.1632215b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a9a4e8.js",
+    "static/js/2.c7343c7b.chunk.js",
+    "static/css/main.26cdd151.chunk.css",
+    "static/js/main.caff4d90.chunk.js"
+  ]
+}
